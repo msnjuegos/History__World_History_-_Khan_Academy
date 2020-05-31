@@ -1,0 +1,3046 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "334de1f8-a2d4-11ea-b67f-88d7f6e0e3ef",
+    "deck_config_uuid": "82a7c289-a085-11ea-b0c2-88d7f6e0e3ef",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": false,
+            "crowdanki_uuid": "82a7c289-a085-11ea-b0c2-88d7f6e0e3ef",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10,
+                    360,
+                    1440
+                ],
+                "leechAction": 1,
+                "leechFails": 4,
+                "minInt": 1,
+                "mult": 0.4
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1,
+                    15,
+                    1440,
+                    4320,
+                    8640
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    15,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 12,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [
+        "0_Lupa_Capitolina_(2).jpg",
+        "1280px-All_Gizah_Pyramids2.jpg",
+        "1280px-Tribute_in_the_Achaemenid_Empire.jpg",
+        "3401.jpg",
+        "354px-Periferia_Peloponnisou.png",
+        "596px-Greece_(ancient)_Attica.svg.png",
+        "Hoplites.jpg",
+        "Leonidas-Thermopylae-oil-canvas-Jacques-Louis-David-Louvre-1814.jpg",
+        "Map_1st_Greco-Persian_Wars.jpg",
+        "Scene_of_the_Battle_of_the_Thermopylae.jpg",
+        "Screenshot from 2020-05-28 22-53-19.jpg",
+        "Untitled.jpg",
+        "hellenistic_mapp.jpeg",
+        "paste-030cee906315c94758615da2640097120dcbbc36.jpg",
+        "paste-06dfac530feb35162277d51d979774d7dd177167.jpg",
+        "paste-0ab52f705d3aa890e133df3238cfd1bbcaf60274.jpg",
+        "paste-0cc04d9a1ce1ee1e9b03ceb221e8f4788aa2bccc.jpg",
+        "paste-0d6e9119360c998f2935e0d1aefe788d815774e3.jpg",
+        "paste-0f0f9de616e1726c31a6d400317ec76d65f46c12.jpg",
+        "paste-116146304c1807e85b5f7d763e55389a73ae68d9.jpg",
+        "paste-11d738071dad9681d10f21dc293e6edd66bef3ff.jpg",
+        "paste-12f11059a4ba2d58abc6f1e8bc59d496d2b6e605.jpg",
+        "paste-14ef8b5989221b067367626906b04ff8a242632b.jpg",
+        "paste-1946f31053e7b89410cfa2ed33cc943136184bf9.jpg",
+        "paste-1c52b97a39bc51b9832d107d1c2fe105bd9e0c01.jpg",
+        "paste-1dd136a19670737006983854075842edd619232c.jpg",
+        "paste-1e1439dc10b6839c8eb1042f956f1e9caee865b2.jpg",
+        "paste-20a14979c44e40a94a4f60c04d6acb97871ea0d0.jpg",
+        "paste-217d1a18aebe8c44062440d61eb88bd9ba3386bc.jpg",
+        "paste-24d13274f07d42e558784e750ceda0c113b4ea09.jpg",
+        "paste-252a4b7a257948c1a0c59235f6e04088a8fa0585.jpg",
+        "paste-283337af75b26922d4c06d7dd4da8391ff9633a3.jpg",
+        "paste-294bd8c85e7482ee727f48da9ba77d8abfb51421.jpg",
+        "paste-2b973d30e5506cb09c0d3e889c5d9e8d51e9fc82.jpg",
+        "paste-32fdc272aa86d0f0e3ff0e43649b948304c79de0.jpg",
+        "paste-34864efda547ec53398dc430a1b95e89fd66f477.jpg",
+        "paste-3c4c7dd041fbf5d3d8932c52232d7c9bfa02c3c7.jpg",
+        "paste-3c5d45784757cfd7eb16c04f129cbc73e9612a2d.jpg",
+        "paste-3e1d0397a71f9c4292360a24ae21a04e34a6bc75.jpg",
+        "paste-410815ad71c435a568a4ea70beef643bd5a79727.jpg",
+        "paste-444cdabb0b5e6cbb4b0842de776ca527244a46b2.jpg",
+        "paste-4a67f9bd3b8d987925b243db6d1ac2859c223fb1.jpg",
+        "paste-4d320b6a50275d56815bc0c955cd59f3d0b4c18b.jpg",
+        "paste-4dc07f2f5a116d1f0b5ba063d7e1db12ca1ff5df.jpg",
+        "paste-4f6e29e79ebcc4e7788d68a00344faf670e79087.jpg",
+        "paste-51c028a66c8ae0d1ea45dd600e0c33a46fe3e671.jpg",
+        "paste-521e040222cfc28c91177b094200d1438c920c4c.jpg",
+        "paste-524eb24ba1091467db35ecf5d7a8a5bd86a94dbd.jpg",
+        "paste-535498125fed792600809b042ba75881c2379fd6.jpg",
+        "paste-570d717ebddee2cfd93dcf19ef4e1f10c11095fc.jpg",
+        "paste-5a641677edb97fadd8de33e3866504c758b91532.jpg",
+        "paste-5a888a7e9197d8369aa5c9f950971d4a18bdb44c.jpg",
+        "paste-5c0a6f3fc3606e58b7d07a0da4f25152b893f886.jpg",
+        "paste-5c75c81687df0b917f6a429e9ec41ccf5b7f965a.jpg",
+        "paste-5cb836bf49885e0fc1e317f4cb3b7a9d774a4e7b.jpg",
+        "paste-612429faa17dafac27cbd181219cfbebb5063efb.jpg",
+        "paste-63932ae5e8558b8eeff90fae4e7909ccbb587c26.jpg",
+        "paste-65b364e57678cb717f65b9a6475fc0b36d8e2049.jpg",
+        "paste-67b4db88fdf4ca0e837fd8c9b556a2d36a150062.jpg",
+        "paste-6852e43176b5ba9c15b2f2a9dd97cd77451e36e3.jpg",
+        "paste-6c3abef21cb3d0dd8f9cba8fd9b5b7f64dba5980.jpg",
+        "paste-7170db1205acad08e4dd1e700d77474a53c2a4c6.jpg",
+        "paste-73860ee564d1fa568bc9c829ac22e8f4c058d30f.jpg",
+        "paste-76127af4c2f77aa9ba83332f341f8cc063558654.jpg",
+        "paste-76dade04083f03507b0c2d16acc5c1633ca41858.jpg",
+        "paste-776cee230bb9ff00dd4d1916be2c2e7fd532d4bd.jpg",
+        "paste-779ef399868d10e4bbdca290af1ac631e144b0ba.jpg",
+        "paste-79ac7bb1223f727fd372938188b8c307f4ebf7b4.jpg",
+        "paste-7cbeb6ae6ec164166cbc504391aa80ecf7103e23.jpg",
+        "paste-7dace3d30fa3accac5bbc9f2c6880d488bee8477.jpg",
+        "paste-807af4c1ae30931f65b733d71d4f03ad335fcfbf.jpg",
+        "paste-82ac9163b6f9715df103344414bff957913db073.jpg",
+        "paste-859432fde3c40efde5fd82ed143a91b05299c880.jpg",
+        "paste-85cc2a070cc60b1bbe4bf8d393b7629024d9f281.jpg",
+        "paste-860604cb574931984f7acc1ea9d591fdc4b7485b.jpg",
+        "paste-86e686f8f2fe44d41ec46ddde9b8859adbfd99c9.jpg",
+        "paste-8810c0fe5ffc38769e4b30b9244b1f2de67821eb.jpg",
+        "paste-8925dcd91a7e81535acef828ec8c93d731901711.jpg",
+        "paste-89a68f906b662f17b245a5648a6defd08fd943cd.jpg",
+        "paste-8dfa8aa706cd31f2886683a11f58a1d7a1d37d71.jpg",
+        "paste-8eb941a7b4095bdaa9e9ee1556999ee7167f55dc.jpg",
+        "paste-90b4a2b823b0016d0bede69e307e1db97345a40c.jpg",
+        "paste-929760761b81613a5e4bee1d7be36fa8fddf9ff2.jpg",
+        "paste-93100fcba325a70a6b71edaa86286df4d2f48b9d.jpg",
+        "paste-949af43050854d9ea97aceb7890982e6f1db0c24.jpg",
+        "paste-953076c24b5176ed65c6943fbf6a3e89084dad82.jpg",
+        "paste-982c70daa56c48f9e81412af9c83e3e6bfacd292.jpg",
+        "paste-9a7fc5ee9d6e21e092c127ceaa7e5f8668f8f7d3.jpg",
+        "paste-9d4bc4f36eb81192909273b37e416a365becbf4d.jpg",
+        "paste-9e1c3cb009f9b9fe967579fd66c7ae07216352be.jpg",
+        "paste-a4b32d0fcf88a92b38982ab1c163eb9f25004029.jpg",
+        "paste-a8c8d91fed4a80010364d61235b3f73c17b62834.jpg",
+        "paste-aab7e7241f311a7f5006cb04297d7159719325d5.jpg",
+        "paste-ad7d7ce76db9c02632e7d2f4d1b1a6e4353a1d29.jpg",
+        "paste-af21cd2d21a3065b8c3d0fba0f61c15142ac64c0.jpg",
+        "paste-b05eaa9d0d4798f1f8628dc33654d875cac108f4.jpg",
+        "paste-b0ec86e6d553a157d0ba261e00eba6c2f5b6540a.jpg",
+        "paste-b1c8c5d469a91da90059377f0cb4c8dc092ffbd4.jpg",
+        "paste-b39c98c6327de127f14d74b82e018a89d88c248b.jpg",
+        "paste-b3d9fbecba14a6b11d11f89e3801f3c2c9353ae0.jpg",
+        "paste-b6f7023ffda50d42f7f5acb5e96224da576e75a9.jpg",
+        "paste-b781b165372d37f7c66529cf8543a914bcc7582d.jpg",
+        "paste-bc7d039ed6b7e6714141fb36a9163c3dd7f7c432.jpg",
+        "paste-bd67bffd272af2b146e673f1f79e4b0b20138491.jpg",
+        "paste-bef3c558ba19f0b0c9bf7c0942438beead877885.jpg",
+        "paste-c211982c92a28e0f3980b982878c0a589f6dcd65.jpg",
+        "paste-c28cce32af0b1fadb7578707591b58f5cdcf55df.jpg",
+        "paste-c6f7dcfe1c212e17c76d0af1b88dda6edbf6a400.jpg",
+        "paste-c7f0adfaed63d6ae79abc730765647859bed7ade.jpg",
+        "paste-c8c5136765c43bc95f09353a9fc8db84df143c2a.jpg",
+        "paste-caeb82abbda4fed4e06d8e74153f0729b7d291a1.jpg",
+        "paste-ce84dfe1c5e5a1c032232fa2a1386b04abdf4eee.jpg",
+        "paste-d4a9cf863bf027cd995f4029dc5a1347a34e8c83.jpg",
+        "paste-d4fc23139fd26a7d821c23f3eb38f8bbf82934cd.jpg",
+        "paste-d5f19253c1b08a0538885463f3f393b4cfe03421.jpg",
+        "paste-d65f586bcd41954f95e36936d83b2a34e2d5447c.jpg",
+        "paste-d9c1a319917a1c1795238a1c25d482fc5b8b3fa2.jpg",
+        "paste-db8a26a9e6be05eb295a9e8901187090b15cad14.jpg",
+        "paste-de425e9c367264edabedd3654770e4aef3afff5e.jpg",
+        "paste-df42b569fd1c439691fa0b025804fbd0c7ed3251.jpg",
+        "paste-e4c173647e16a95ac2ead3ab937fc37e5f15e9d1.jpg",
+        "paste-e4ce5e69f605ad23d0fb26149682d13eeeebdc24.jpg",
+        "paste-e99216517bf6758e88111ec23695a7d80afb9c57.jpg",
+        "paste-ed7672a98359255bbf8cd3e7064258687bf14b73.jpg",
+        "paste-eec2c69b8c6139ab2f844e38b7b3cec30d1d12ea.jpg",
+        "paste-f03d9f8899ff6db6c51f1842952512694706e720.jpg",
+        "paste-f10fdbb6d2317b6c9bb0dd5654e6494c96a26f8c.jpg",
+        "paste-f1c06e437a36a65dde4766f5a9bbc84b3202681a.jpg",
+        "paste-f34e728c25084f3259a4d453794d13456a81ce1b.jpg",
+        "paste-f37f21548f6582f8fd696c538548626f98403f84.jpg",
+        "paste-f3ddeddb65c8f4093ad1aac7067949991bdf9a36.jpg",
+        "paste-f41404f7983de3bb96b1c624b30b7d6abab97777.jpg",
+        "paste-f4efc26ace4cf742363ac1dd53c27829eb6b0f5b.jpg",
+        "paste-fd900b12e4b79706a89bbe374ba2f84b4f4cdfb2.jpg",
+        "paste-feaf71b8e216fba874607ac5ebf76d062b3e9028.jpg",
+        "pasted_image003.jpg",
+        "roman_consuls_from_lantica_roma_1825_colour_mousepad-rd54bd41779bf43bba6415c44fb3934b4_x74vi_8byvr_512.jpg"
+    ],
+    "mid": "1590700574531",
+    "name": "History::World History - Khan Academy",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "css": "/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Menlo, baskerville, sans;\n    font-size: 18px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: #D7DEE9; /* FONT COLOR */\n    line-height: 1.6em;\n    background-color: #333B45; /* BACKGROUND COLOR */\n}\n\n/* OTRO ESTILO DE TARJETAS\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: #586e75;\n    background-color: #fdf6e3;\n}\n*/\n\n/* IMAGE CSS CODE */\n\nimg {\n/width: auto;\n/height: auto;\nmax-width: 1200px;\nmax-height: 110vh;\nborder-radius: 5%;\nborder: 5px solid #ddd;\n}\n\n\n/* TAG CSS CODE*/\n\n.tags{\n//font-family: Menlo, baskerville, adobe caslon pro, sans;\nfont-family:Helvetica;\nfont-size: 14px;\n//font-weight: bold;\ntext-align: center;\ncolor: #595959;\n/text-transform: uppercase; \n}\n\n.new-tag {\n    background-color: #03A9F4;\n    border: none;\n    color: black;\n   padding:.25rem; \n/    padding: 10px 20px;\n    text-align: center;\n    text-decoration: none;\n    display: inline-block;\n/  margin: 4px 2px;\n    margin:.25rem;\n/    cursor: pointer;\n    border-radius: 3px;\n   font-weight: bold\n}\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */\nb { color: #C695C6;   font-style: bold;} /* BOLD STYLE */\ni  { color: IndianRed;   font-style: italic;} /* ITALICS STYLE */\n",
+            "flds": [
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic SafeEyes",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "WH::General",
+                "WH::Pre-History"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n{{Back}}\n\n{{#Extra}}\n <h4>Extra</h4> \n{{Extra}}\n{{/Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Basic",
+                    "ord": 0,
+                    "qfmt": "{{#Tags}}\n<div class=tags>{{Tags}}</div>\n{{/Tags}}\n<script>\n    var tagEl = document.querySelector('.tags');\n    var tags = tagEl.innerHTML.split(' ');\n    var html = '';\n    tags.forEach(function(tag) {\n        var newTag = '<span class=\"new-tag\">' + tag + '</span>';\n        html += newTag;\n    });\n    tagEl.innerHTML = html;\n</script>\n\n{{Front}}\n"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "css": "/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Menlo, baskerville, sans;\n    font-size: 18px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: #D7DEE9; /* FONT COLOR */\n    line-height: 1.6em;\n    background-color: #333B45; /* BACKGROUND COLOR */\n}\n\n/* OTRO ESTILO DE TARJETAS\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: #586e75;\n    background-color: #fdf6e3;\n}\n*/\n\n/* IMAGE CSS CODE */\n\nimg {\n/width: auto;\n/height: auto;\nmax-width: 110vh;\nmax-height: 90vh;\nborder-radius: 5%;\n/border: 5px solid #ddd;\n}\n\n\n/* TAG CSS CODE*/\n\n.tags{\n//font-family: Menlo, baskerville, adobe caslon pro, sans;\nfont-family:Helvetica;\nfont-size: 14px;\n//font-weight: bold;\ntext-align: center;\ncolor: #595959;\n/text-transform: uppercase; \n}\n\n.new-tag {\n    background-color: #03A9F4;\n    border: none;\n    color: black;\n   padding:.25rem; \n/    padding: 10px 20px;\n    text-align: center;\n    text-decoration: none;\n    display: inline-block;\n/  margin: 4px 2px;\n    margin:.25rem;\n/    cursor: pointer;\n    border-radius: 3px;\n   font-weight: bold\n}\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */\nb { color: #C695C6;   font-style: bold;} /* BOLD STYLE */\ni  { color: IndianRed;   font-style: italic;} /* ITALICS STYLE */",
+            "flds": [
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic (and reversed card) SafeEyes",
+            "req": [
+                [
+                    0,
+                    "all",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "all",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [
+                "WH::AncientGreece"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}\n\n{{#Extra}}\n <h4>Extra</h4> \n{{Extra}}\n{{/Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{#Tags}}\n<div class=tags>{{Tags}}</div>\n{{/Tags}}\n<script>\n    var tagEl = document.querySelector('.tags');\n    var tags = tagEl.innerHTML.split(' ');\n    var html = '';\n    tags.forEach(function(tag) {\n        var newTag = '<span class=\"new-tag\">' + tag + '</span>';\n        html += newTag;\n    });\n    tagEl.innerHTML = html;\n</script>\n\n{{Front}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}\n\n{{#Extra}}\n <h4>Extra</h4> \n{{Extra}}\n{{/Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{#Tags}}\n<div class=tags>{{Tags}}</div>\n{{/Tags}}\n<script>\n    var tagEl = document.querySelector('.tags');\n    var tags = tagEl.innerHTML.split(' ');\n    var html = '';\n    tags.forEach(function(tag) {\n        var newTag = '<span class=\"new-tag\">' + tag + '</span>';\n        html += newTag;\n    });\n    tagEl.innerHTML = html;\n</script>\n\n{{Back}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "css": "/* GENERAL CARD STYLE */\n/* APPLIES TO THE WHOLE CARD */\n.card {\n    font-family: Menlo, baskerville, sans;\n    font-size: 18px; /* FONT SIZE */\n    text-align: center; /* ALIGN TEXT */\n    color: #D7DEE9; /* FONT COLOR */\n    line-height: 1.6em;\n    background-color: #333B45; /* BACKGROUND COLOR */\n}\n\n/* OTRO ESTILO DE TARJETAS\n.card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: #586e75;\n    background-color: #fdf6e3;\n}\n*/\n\n/* IMAGE CSS CODE */\n\nimg {\n/width: auto;\n/height: auto;\nmax-width: 110vh;\nmax-height: 90vh;\nborder-radius: 5%;\nborder: 5px solid #ddd;\n}\n\n\n/* TAG CSS CODE*/\n\n.tags{\n//font-family: Menlo, baskerville, adobe caslon pro, sans;\nfont-family:Helvetica;\nfont-size: 14px;\n//font-weight: bold;\ntext-align: center;\ncolor: #595959;\n/text-transform: uppercase; \n}\n\n.new-tag {\n    background-color: #03A9F4;\n    border: none;\n    color: black;\n   padding:.25rem; \n/    padding: 10px 20px;\n    text-align: center;\n    text-decoration: none;\n    display: inline-block;\n/  margin: 4px 2px;\n    margin:.25rem;\n/    cursor: pointer;\n    border-radius: 3px;\n   font-weight: bold\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n\n/* STYLE FOR CLOZE DELETIONS */\n.cloze, .cloze b, .cloze i { font-weight: bold; color: MediumSeaGreen;}\n\n/* COLOR ACCENTS FOR BOLD-ITALICS-UNDERLINE */\nb { color: #C695C6; } /* BOLD STYLE */\ni  { color: IndianRed; } /* ITALICS STYLE */",
+            "flds": [
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": true
+                },
+                {
+                    "font": "Arimo",
+                    "media": [],
+                    "name": "Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Cloze SafeEyes",
+            "sortf": 0,
+            "tags": [
+                "WH::General",
+                "WH::Pre-History"
+            ],
+            "tmpls": [
+                {
+                    "afmt": "{{#Tags}}\n<div class=tags>{{Tags}}</div>\n{{/Tags}}\n<script>\n    var tagEl = document.querySelector('.tags');\n    var tags = tagEl.innerHTML.split(' ');\n    var html = '';\n    tags.forEach(function(tag) {\n        var newTag = '<span class=\"new-tag\">' + tag + '</span>';\n        html += newTag;\n    });\n    tagEl.innerHTML = html;\n</script>\n{{cloze:Text}}\n\n{{#Extra}}\n <h4>Extra</h4> \n{{Extra}}\n{{/Extra}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{#Tags}}\n<div class=tags>{{Tags}}</div>\n{{/Tags}}\n<script>\n    var tagEl = document.querySelector('.tags');\n    var tags = tagEl.innerHTML.split(' ');\n    var html = '';\n    tags.forEach(function(tag) {\n        var newTag = '<span class=\"new-tag\">' + tag + '</span>';\n        html += newTag;\n    });\n    tagEl.innerHTML = html;\n</script>\n\n{{cloze:Text}}"
+                }
+            ],
+            "type": 1,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Aparición de los primeros Homo sapiens",
+                "300 000 BCE",
+                "<div><img src=\"paste-e99216517bf6758e88111ec23695a7d80afb9c57.jpg\"><br></div><i>Herto</i> skull. Found around 160,000 years ago at Ethiopia"
+            ],
+            "flags": 0,
+            "guid": "PdzHwf~;(m",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::Pre-History"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Aparición de Homo erectus",
+                "2 500 000 BCE",
+                "<img src=\"paste-949af43050854d9ea97aceb7890982e6f1db0c24.jpg\"><br><div><sub>Forensic reconstruction of an adult female <i>Homo erectus</i></sub></div>"
+            ],
+            "flags": 0,
+            "guid": "hlQYc}eX!3",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::Pre-History"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Año en el que cambia de pre-Historia a Historia",
+                "3200 BCE",
+                "<img src=\"paste-d5f19253c1b08a0538885463f3f393b4cfe03421.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "yz2a=aD<-&",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::Pre-History"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Especie humana que comenzó a usar el fuego y las herramientas",
+                "Homo erectus",
+                "<img src=\"paste-de425e9c367264edabedd3654770e4aef3afff5e.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "t>4<1-]jC>",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::Pre-History"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Hipótesis de \"aridity\" (o Savannah hipothesis)",
+                "<div>Hipótesis que dice que \"Los ancestros del ser humano vivían en árboles. Cuando éstos empezaron a escasear, tuvieron que bajar al suelo a buscar comida, dando orígen a los bípedos\".</div>",
+                "<img src=\"paste-b781b165372d37f7c66529cf8543a914bcc7582d.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "DjIEb@8n;[",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::Pre-History"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Herramientas del periodo Neolítico",
+                "Herramientas más pequeñas y especializadas",
+                "<img src=\"paste-252a4b7a257948c1a0c59235f6e04088a8fa0585.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "d8Yk(V0e/g",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::Pre-History"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Características del periodo neolítico (revolución neolítica)",
+                "Las características de este periodo son:<div><br></div><div>1. Desarrollo de agricultura<div>2. Especialización de labores</div><div>3. Desarrollo de un sentido de <b>propiedad</b></div><div>4. Aumento exponencial de la densidad población</div></div>",
+                "<img src=\"paste-860604cb574931984f7acc1ea9d591fdc4b7485b.jpg\"><img src=\"paste-9e1c3cb009f9b9fe967579fd66c7ae07216352be.jpg\">&nbsp;<img height=\"400px\" src=\"paste-ce84dfe1c5e5a1c032232fa2a1386b04abdf4eee.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "hG8sc^<elO",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::General",
+                "WH::Pre-History"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Razón de la aparición de la escritura",
+                "Generación de registros contables y leyes",
+                "<img src=\"paste-612429faa17dafac27cbd181219cfbebb5063efb.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "s>D1SDI,|6",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::General",
+                "WH::Pre-History"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Significado de Mesopotamia. ¿De qué otro nombre se le conoce?",
+                "Significa \"Entre ríos\" y se conoce también como \"Creciente fértil\"",
+                "<img src=\"paste-f10fdbb6d2317b6c9bb0dd5654e6494c96a26f8c.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "mrL?bXO@fg",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ríos que rodean a Mesopotamia",
+                "Ríos Tigris y Éufrates",
+                "<img src=\"paste-9d4bc4f36eb81192909273b37e416a365becbf4d.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "K@oqmV)0AH",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Primera civilización de Mesopotamia",
+                "Sumerios (~4000 BCE)",
+                "<div><img src=\"paste-d4a9cf863bf027cd995f4029dc5a1347a34e8c83.jpg\"><br></div><div><sub>(Standard of Ur - 2600 BCE)</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "BfSt1Jp9~r",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Primer imperio de Mesopotamia",
+                "Acadios (~2350 BCE)",
+                "<img src=\"paste-6852e43176b5ba9c15b2f2a9dd97cd77451e36e3.jpg\"><div><sub>Map of the Akkadian Empire (brown) and the directions in which military campaigns were conducted (yellow arrows)</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "jtkUh5pEZ|",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Código de Ur",
+                "1er prototipo de leyes. Fue creado por los sumerios.",
+                "<div><img src=\"paste-5cb836bf49885e0fc1e317f4cb3b7a9d774a4e7b.jpg\"><br></div><div>Creado por Ur-Nammu. ~2100 BCE</div>"
+            ],
+            "flags": 0,
+            "guid": "QqG20#w:Ma",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Civilizaciones de la Antigua Mesopotamia:<div><br><div>1. {{c1::Sumerios (4000 BCE)}}<div>2. {{c2::Acadios (3000 BCE)}}</div><div>3. {{c1::Babilónicos (1700 BCE)}}</div><div>4. {{c2::Asirios (800 BCE)}}<br></div><div>5. {{c1::Neobabilónicos (600 BCE)}}</div></div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Q;A51CG][&",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "El {{c1::código de Hammurabi}} fue el primer código de leyes desarrollado por los {{c2::babilónicos}} en el ~1700 BCE. Los castigos variaban según {{c3::el estrato social de la víctima y victimario y género}}.",
+                "<img src=\"paste-14ef8b5989221b067367626906b04ff8a242632b.jpg\"><br><div><sub>Hammurabi (de pie) es representado en el momento que recibe sus insignias reales de manos de Samas, dios del sol y la justicia. Año 1750 BCE</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "x[,`ALxuIz",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Río alrededor del que se asentó el Antiguo Egipto",
+                "Río Nilo",
+                "<img src=\"paste-8dfa8aa706cd31f2886683a11f58a1d7a1d37d71.jpg\">&nbsp;"
+            ],
+            "flags": 0,
+            "guid": "QSnL&?M$M?",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientEgypt"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Objeto con el cual se logró decifrar jeroglígicos egiptos",
+                "Piedra de Rosetta",
+                "<img src=\"paste-3c5d45784757cfd7eb16c04f129cbc73e9612a2d.jpg\"><br><div><sub>The Rosetta Stone created in 196 BCE</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "x`v8WSq&cj",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientEgypt"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Duración periodo del antiguo egipto",
+                "3100 - 600 BCE",
+                "Termina en los años 600 con la invasión neoasiria y luego con la conquista aqueménida del territorio"
+            ],
+            "flags": 0,
+            "guid": "g3#V{?`hm/",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientEgypt",
+                "leech"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Forma de gobernación del antiguo egipto",
+                "Reinado divino: La política y la religión estaban íntimamente ligadas",
+                "<img src=\"paste-bef3c558ba19f0b0c9bf7c0942438beead877885.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "o{Pq`%h<j9",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientEgypt"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Año de construcción de las primeras pirámides y esfinges Egiptas",
+                "2500 BCE - Periodo del Imperio Antiguo de Egipto",
+                "<div>Duración Imperio Antiguo de Egipto o Reino Antiguo ~2600 BCE - 2100 BCE<div>Periodo que se caracteriza por consolidar el sistema político, cultural y religioso, marcado con una divinización absoluta del faraón y un poder político fuertemente centralizado.</div><div>Época de creacion de pirámides</div></div><div><br></div><div><img src=\"1280px-All_Gizah_Pyramids2.jpg\"><img src=\"paste-f34e728c25084f3259a4d453794d13456a81ce1b.jpg\"><br></div><div><sub>Las Pirámides y la gran Esfinge de Guiza</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "JKVukG9BJY",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientEgypt"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Primer tratado de paz conocido",
+                "Tratado de Kadesh",
+                "<img src=\"paste-ad7d7ce76db9c02632e7d2f4d1b1a6e4353a1d29.jpg\"><br><div>Treaty of Kadesh ~1260 BCE<br></div>"
+            ],
+            "flags": 0,
+            "guid": "j(RyH1Bm{z",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientEgypt"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Pueblo contra el que Egipto se enfrentó en la batalla de Qadesh",
+                "Hititas",
+                ""
+            ],
+            "flags": 0,
+            "guid": "G`,N/.:cjz",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientEgypt"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Río alrededor del que se desarrolló la cultura India",
+                "Río Indo (<i>Indus River</i>)",
+                "<img src=\"paste-f1c06e437a36a65dde4766f5a9bbc84b3202681a.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "sAEuTb0*P~",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientIndia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Periodos de la antigua India:<br>{{c1::Indus Valley Civilization (3300 BCE - 1300 BCE)}}<div>{{c2::Periodo Védico (1300 BCE - 500 BCE)}}</div>",
+                "<img src=\"paste-1946f31053e7b89410cfa2ed33cc943136184bf9.jpg\"><img src=\"paste-c6f7dcfe1c212e17c76d0af1b88dda6edbf6a400.jpg\"><br><div><sub>Der. Miniature Votive Images or Toy Models from Harappa, c. 2500&nbsp;BCE.<br></sub></div><div><sub>Izq. Cremation urn of the Gandhara grave culture (c. 1200 BCE), associated with Vedic material culture</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "ojScW(Z,(p",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientIndia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Mohenjo-daro}} se creó en el año {{c2::2600 BCE}} y fue la ciudad India más importante",
+                "<img src=\"paste-b6f7023ffda50d42f7f5acb5e96224da576e75a9.jpg\"><br><div>Excavated ruins of Mohenjo-daro, with the Great Bath in the foreground and the granary mound in the background<br></div>"
+            ],
+            "flags": 0,
+            "guid": "y)~`BSR{iY",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientIndia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Características de la <i>Indus Valley Civilization</i>",
+                "1. Desarrollaron una elevada planificación urbana<div>2. Poseían elevados estándares de sanidad y limpieza</div><div>3. Fueron muy activos en el comercio</div>",
+                "<img src=\"paste-859432fde3c40efde5fd82ed143a91b05299c880.jpg\">&nbsp;<img src=\"paste-b3d9fbecba14a6b11d11f89e3801f3c2c9353ae0.jpg\"><br><div><sub>The <i style=\"\">Dancing Girl</i> of Mohenjo-daro; 2300-1750&nbsp;BCE; bronze; height: 10.8&nbsp;cm<br></sub></div><div><sub><i>Indus Priest/King Statue</i>. The statue is 17.5 cm high and carved from steatite. It was found in Mohenjo-daro in 1927</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "C:oggOKy*3",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientIndia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Los pueblos de <i>Indus Valley Civilization</i> poseían una estandarización a través de",
+                "Medidas de peso y longitud",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dvNC*<2!>P",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientIndia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Las ciudades de la Antigua India alrededor del río Indo se caracterizaban por poseer {{c1::ciudadelas (centros fortificados)}} que servían para {{c2::protegerse de inundaciones y como modo de defensa ante enemigos.}}",
+                "<img src=\"paste-c211982c92a28e0f3980b982878c0a589f6dcd65.jpg\"><br>Citadel model by Anna Therese Y."
+            ],
+            "flags": 0,
+            "guid": "Nyk6b/>JB/",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientIndia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Otro nombre con el que se conocía a la <b>Civilización del río Indo</b>",
+                "Harappans",
+                ""
+            ],
+            "flags": 0,
+            "guid": "dgrmu~z=`4",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientIndia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Los Harappans fueron conocidos por sus {{c1::grabados de sellos de arcilla}} para marcar propiedades y productos.&nbsp;</div>",
+                "<img src=\"paste-8eb941a7b4095bdaa9e9ee1556999ee7167f55dc.jpg\"><br><div><div><div><div><div>Mold of a seal from the Indus Valley civilization</div></div></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "g)uy},`3U8",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientIndia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Teorías del declive de la <i>Indus Valley Civilization</i>",
+                "<div>1. Invasión del territorio (es la teoría con menor evidencia)</div><div>2. Sequía/cambio de rumbo/inundaciones del río Indo que hizo no sostenible la agricultura a gran escala y tuvieron que dividirse en poblados más pequeños, lo que los incapacitó para seguir con el comercio y los llevó a abandonar sus hogares.</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pb7a+xOm7@",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientIndia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nombre del grupo de personas que ingresan el territorio Indio en el declive de la Indus Valley Civilization",
+                "<div>Indo-Aryans (o Aryans)</div>",
+                "<img src=\"Untitled.jpg\"/><div><div><sub>Settlements on morphological units of the western Indo-Gangetic plain:</sub></div><div><sub>Izq. Early and Mature Harappan sites, with names of some major urban centers.</sub></div><div><sub>Der. Late Harappan (red) and Painted Gray Ware (white) sites.</sub></div></div><div><sub>[https://doi.org/10.1073/pnas.1112743109]</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "u9>AvmX1,7",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientIndia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Lenguaje de los Vedas",
+                "Sánscrito",
+                "<img src=\"paste-a8c8d91fed4a80010364d61235b3f73c17b62834.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "h?~3gSZSSd",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientIndia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>El {{c1::sánscrito}} fue una de las primeras lenguas {{c2::Indo-Europeas}} creadas, junto con la lengua de los {{c3::Hititas::anatolian}} y el {{c4::Griego Micénico::hellenic}}.</div>",
+                "<img src=\"paste-a8c8d91fed4a80010364d61235b3f73c17b62834.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "Jza3r[nm$j",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientIndia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Nombre de la primera composición de textos védicos en la Antigua India",
+                "Rigvedas",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ifG6a%?l%.",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientIndia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "En el periodo védico se gobernaba a través de&nbsp;",
+                "Pequeños reinados",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x3l#WD?Q;{",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientIndia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Los Vedas poseían una organización social a través de un {{c1::sistema de castas::estratificación social}}: Brahmins, Kshatriyas, Vaishyas y Shudras",
+                "<img src=\"paste-20a14979c44e40a94a4f60c04d6acb97871ea0d0.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "f)R*fqo80>",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientIndia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "La religión predominante de la Antigua India era el {{c1::Hinduísmo}} y creían que con la muerte no se acababa la vida, sino que hay una transmutación del alma.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L-#JW#w+M&",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientIndia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>La antigua China se posicionaba entre los ríos</div>",
+                "<div>Yellow River y Yangtze River</div>",
+                "<img src=\"paste-4f6e29e79ebcc4e7788d68a00344faf670e79087.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "xO[dg#L[QT",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientChina"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "El sistema de gobierno de la dinastía Shang era",
+                "Sistema feudal",
+                ""
+            ],
+            "flags": 0,
+            "guid": "n+W:?`Of:m",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientChina"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "La dinastía Shang poseía avanzada tecnología en {{c1::carros y armas::militar}} debido a sus técnicas de metalurgia con {{c2::bronce::metal}}",
+                "<img src=\"paste-217d1a18aebe8c44062440d61eb88bd9ba3386bc.jpg\"><img src=\"paste-0cc04d9a1ce1ee1e9b03ceb221e8f4788aa2bccc.jpg\"><br><div><sub>Izq. Shang dynasty bronze vessel ding (sacrificial vessel)</sub></div><div></div><div><div></div><sub>Der. A bronze axe of the Shang dynasty</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "F~R?^QwY9/",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientChina"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>La dinastía Shang se tenía una religión basada en una combinación de {{c1::<b>animismo</b> (la idea de que todas las cosas tienen un alma)}}, {{c2::<b>shamanismo</b> (la creencia en chamanes que tenían la capacidad de comunicarse con el mundo espitirual)}}, {{c3::<b>culto a los ancestros</b>}}&nbsp;y {{c4::<b>adivinación</b>}}.&nbsp;</div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "F=L*u!cBc&",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientChina"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Idioma de la antigua dinastía Shang",
+                "Oracle bone script",
+                "<img src=\"paste-e4ce5e69f605ad23d0fb26149682d13eeeebdc24.jpg\"><img src=\"paste-65b364e57678cb717f65b9a6475fc0b36d8e2049.jpg\"><br><div><div></div><sub>Izq. Oracle shell with inscriptions.<br></sub></div><div><sub>Der. Ox scapula with a divination inscription from the reign of the Shang King Wu Ding</sub></div><div></div><div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "JDsLfXQ0+4",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientChina"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Batalla entre dinsatía Shang y Zhou con la que acabó la dinastía Shang",
+                "Batalla de Muye (Antigua China 1.046 BCE)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wR>&roh%;n",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientChina"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Primera dinastía china de la que se tiene conocimiento",
+                "Xia Dinasty",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H?T?>#~Qbe",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientChina"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Los olmecas vivieron en la costa del {{c1::golfo de México::golfo}} en el periodo aprox. {{c2::1650 a 350 BCE}}",
+                "<img src=\"paste-294bd8c85e7482ee727f48da9ba77d8abfb51421.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "Ic_:HdS%Sh",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientAmericas"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Los olmecas son conocidos por",
+                "sus estatuas de cabezas en basalto",
+                "<div>Duración aproximado civilización olmeca 1650 a 350 BCE.</div><div>Cada una es distinta y por esto se cree que representaban a un individuo en particular. Se han encontrado 17 a la actualidad.<br></div><div><br></div><img src=\"paste-535498125fed792600809b042ba75881c2379fd6.jpg\"><img src=\"paste-86e686f8f2fe44d41ec46ddde9b8859adbfd99c9.jpg\"><br><div><div></div><sub>Izq. Olmec Head No. 3 from San Lorenzo Tenochtitlan 1200–900&nbsp;BCE<br></sub></div><div><sub>Der. Olmec Head, La Venta</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "F}pkohvQTE",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientAmericas"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "El comercio de los olmecas se basaba principalmente en",
+                "Caucho, hule (rubber)",
+                "<div>Duración aproximado civilización olmeca 1650 a 350 BCE<br></div><div><br></div><img src=\"paste-9a7fc5ee9d6e21e092c127ceaa7e5f8668f8f7d3.jpg\"><br><div><sub>Rubber tree</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "dHZQKp$WE&",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientAmericas"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div> La civilización Caral se desarrolló en los años</div>",
+                "3500 - 1700 BCE",
+                "<div>Es la civilización prehispánica más antigua de la que se tiene conocimiento<br></div><div><br></div><img src=\"paste-eec2c69b8c6139ab2f844e38b7b3cec30d1d12ea.jpg\"><img src=\"paste-85cc2a070cc60b1bbe4bf8d393b7629024d9f281.jpg\"><div><sub>Izq.&nbsp;Aerial photo of the ‘Caral Amphitheater’</sub></div><div><sub>Der.&nbsp;Pyramids at Caral, Supe Valley, Peru</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "F)k{)mrNaD",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientAmericas"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "La planificación urbana de la civilización caral consistía en",
+                "plaza central con templos rodeada de casas",
+                "<img src=\"paste-f41404f7983de3bb96b1c624b30b7d6abab97777.jpg\"><br><div><div><sub>The City of Caral, located at km 182, north of Lima; in the Supe Valley. Credits: Turandino</sub></div></div>"
+            ],
+            "flags": 0,
+            "guid": "u_|o=@N3*3",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientAmericas"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "La civilización Caral se alimentaba principalmente a través de&nbsp;",
+                "productos marinos",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jrB!0#Eyi%",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientAmericas"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "La forma de escritura de la civilización Caral fue",
+                "Quipu (pieza textil de algodón anudada)&nbsp;",
+                "<div>Periodo: 3500 - 1700 BCE<div><div>Es la civilización prehispánica más antigua de la que se tiene conocimiento<br></div></div></div><div><br></div><img src=\"paste-32fdc272aa86d0f0e3ff0e43649b948304c79de0.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "j{o5Hi2OFF",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientAmericas"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "La civilización Chavín se situaba en el norte de {{c1::Perú::país}} entre los siglos {{c2:: IX y III BCE (900 y 250 BCE)}}.",
+                "<img src=\"paste-444cdabb0b5e6cbb4b0842de776ca527244a46b2.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "F7+?bv0p0&",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientAmericas",
+                "leech"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "La distribución de asentamientos de la civlización Chavín fue {{c1::en tierras altas y en tierras bajas::sectorial farming}} para aprovechar {{c2::la diversidad de cultivos}}.",
+                "<img src=\"paste-c28cce32af0b1fadb7578707591b58f5cdcf55df.jpg\"><br><div>Small-scale agriculture near Chavín<br></div>"
+            ],
+            "flags": 0,
+            "guid": "P3(DJp1-z|",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientAmericas"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Los {{c2::ziggurat}} eran templos con forma de pirámide hechos de adobe que tenían fines {{c3::religiosos}} y se situaban {{c1::en el centro de la ciudad}}. Ejemplos son el de Ur (Sumeria) y el de Aqar Quf.",
+                "<div><img src=\"paste-3e1d0397a71f9c4292360a24ae21a04e34a6bc75.jpg\"></div><div>Ziggurat of Ur at Ali Air Base Iraq</div>"
+            ],
+            "flags": 0,
+            "guid": "pB>*/Rj^VB",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "La escritura {{c1::cuneiforme}} es una de las primeras formas de escrituras creadas. La desarrollaron los {{c2::sumerios}} en el año {{c3::3000 BCE}}.",
+                "<img src=\"paste-a4b32d0fcf88a92b38982ab1c163eb9f25004029.jpg\"><br><div><em>Early Writing Tablet</em> recording the allocation of beer, 3100-3000 B.C.E, &nbsp;Late Prehistoric period, clay, probably from southern Iraq.<br></div>"
+            ],
+            "flags": 0,
+            "guid": "qhWs.5N/Fi",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Idioma de la <i>Indus Valley Civilization</i>",
+                "The Indus script",
+                ""
+            ],
+            "flags": 0,
+            "guid": "wBQ<2V[Q*e",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientIndia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Periodo de la dinastía Shang",
+                "<div>Edad del Bronce china (1600 BCE - 1046 BCE)</div>",
+                "<div><img src=\"paste-410815ad71c435a568a4ea70beef643bd5a79727.jpg\">&nbsp;<img src=\"paste-24d13274f07d42e558784e750ceda0c113b4ea09.jpg\"><br></div><div><sub>Izq. Chinese Shang dynasty bronze face masks, 16th–14th century BCE</sub></div><div></div><div><sub>Der. The Shang dynasty Houmuwu Ding is the heaviest piece of bronze work found in China so far.&nbsp;</sub><div><br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "Q9LKt|+5f1",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientChina"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>El primer emperador {{c2::acadio}} conocido fue {{c1::Sargon the Great o Sargon of Akkad}}<i>&nbsp;</i>quien gobernó en el año {{c3::2350}} BCE.&nbsp;</div>",
+                "<img src=\"paste-f03d9f8899ff6db6c51f1842952512694706e720.jpg\"><div><sub>Sargon the Great</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "q]#MqZ}Vu5",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Según la mitología {{c1::sumeria}} hacia el siglo {{c5::XXVIII BCE (2750 BCE)}}, {{c2::Uruk}} (ciudad {{c1::sumeria}}) fue gobernada por {{c3::Gilgamesh}} durante {{c4::126}} años.</div>",
+                "<img src=\"paste-82ac9163b6f9715df103344414bff957913db073.jpg\"><div><div><sub>Possible representation of Gilgamesh as Master of Animals, grasping a lion in his left arm and snake in his right hand, in an Assyrian palace relief (713–706 BCE), from Dur-Sharrukin, now held in the Louvre[1]</sub></div></div>"
+            ],
+            "flags": 0,
+            "guid": "L9t?6ZJpNw",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "En mesopotamia, el imperio {{c1::neo-Asirio}} gobernó entre los años {{c2::900 - 600 BCE.}}",
+                "<img src=\"paste-5a641677edb97fadd8de33e3866504c758b91532.jpg\"><br><div><sub>Lamassu&nbsp;Syrian limestone Neo-Assyrian Period, c. 721–705 BCE</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "A`/lA^G.?[",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "El imperio (dinastía) persa {{c1::Achaemenid (Aqueménida)}}&nbsp;establecido por {{c2::<i>Cyrus the Great</i>}} comenzó el año&nbsp;{{c3::549 BCE.}}",
+                "<div><img src=\"paste-1c52b97a39bc51b9832d107d1c2fe105bd9e0c01.jpg\"><br></div><div></div>Map of the expansion process of Achaemenid territories"
+            ],
+            "flags": 0,
+            "guid": "Q4~]GkFhQH",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "El pueblo predecesor de los persas eran los",
+                "Medians",
+                "<img src=\"paste-4a67f9bd3b8d987925b243db6d1ac2859c223fb1.jpg\"><br><div><div>A map of the Median Empire at its greatest extent (6th century BC), according to Herodotus</div></div>"
+            ],
+            "flags": 0,
+            "guid": "e]<iNmofSM",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "El imperio persa Aqueménida alcanzó una población de unas {{c1::50 millones}} de personas.&nbsp;",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i@^;<S,:/?",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿En qué año aproximado se acaba el imperio del persa&nbsp;<i>Cyrus the Great</i>?",
+                "En el año 330 BCE",
+                "<img src=\"paste-df42b569fd1c439691fa0b025804fbd0c7ed3251.jpg\"><br><div><sub>Alexander fighting Persian king Darius III. From Alexander Mosaic of Pompeii, Naples, Naples National Archaeological Museum</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "ev~+=P1_5.",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Cómo se acaba el imperio persa&nbsp;<i>Achaemenid</i>?",
+                "Con la unificación de Grecia y Persia&nbsp;por parte del hijo de&nbsp;<i>Philip of Macedon</i>, Alejandro Magno.&nbsp;",
+                "<img src=\"paste-79ac7bb1223f727fd372938188b8c307f4ebf7b4.jpg\"><br><div><div><sub>Alexander Mosaic (c. 100 BC), ancient Roman floor mosaic from the House of the Faun in Pompeii showing Alexander fighting king Darius III of Persia in the Battle of Issus</sub></div></div>"
+            ],
+            "flags": 0,
+            "guid": "w5ZJKX_eU?",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Dinastía que procede a la Aqueménida",
+                "<div>Dinastía a la que la dinastía Seleúcida (gobernada por el griego Selecus) procede</div>",
+                "<img src=\"paste-8925dcd91a7e81535acef828ec8c93d731901711.jpg\"><br><div><div></div>Coin of Seleucus I Nicator<br></div>"
+            ],
+            "flags": 0,
+            "guid": "GEms!1@-rd",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Religión predominante del antiguo persa&nbsp;&nbsp;</div>",
+                "Religión Zoroastrianismo",
+                "<img src=\"paste-0ab52f705d3aa890e133df3238cfd1bbcaf60274.jpg\"/><br/><div><div>Atar (fire), a primary symbol of Zoroastrianism</div></div>"
+            ],
+            "flags": 0,
+            "guid": "wE}W^Tp=rY",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>En la segunda mitad del siglo {{c1::III BCE (238 BCE)}}, los {{c2::Parthians}}&nbsp;(del imperio persa) toman el control y así se vuelve otra vez un imperio bajo reglas persas en vez de griegas.&nbsp;</div>",
+                "<img src=\"paste-34864efda547ec53398dc430a1b95e89fd66f477.jpg\"><br><div><div><sub>&nbsp;A ceramic plaque depicting a Parthian archer, 1st-3rd century CE. The figure wears trousers and carries a composite bow. From Syria. Height: 17 cm. (British Museum, London)&nbsp;</sub></div></div>"
+            ],
+            "flags": 0,
+            "guid": "jBw$?U*s?z",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>Los persas crearon el {{c1::camino real (<i>Royal Road</i>)}}&nbsp;que conectaba <i>Sardis</i> (actual {{c3::Turquía}}) con <i>Sousa</i> (actual {{c2::Iran}}).&nbsp;</div>",
+                "<img src=\"paste-283337af75b26922d4c06d7dd4da8391ff9633a3.jpg\"><br><div><div></div>The map of Achaemenid Empire and the section of the Royal Road noted by Herodotus<br></div>"
+            ],
+            "flags": 0,
+            "guid": "DRf(FwqH54",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div> El persa <i>Cyrus the Great</i>&nbsp;dominó al imperio de los {{c1::lydians}}&nbsp;y a los {{c2::neo-babilónicos}}, pero no pudo con {{c3::Egipto}}.</div>",
+                "<img src=\"paste-929760761b81613a5e4bee1d7be36fa8fddf9ff2.jpg\"><br><div><div><sub>Cyrus the Great with a Hemhem crown, or alternatively a four-winged Cherub tutelary divinity, on a relief in the residence of Cyrus in Pasagardae.</sub></div></div>"
+            ],
+            "flags": 0,
+            "guid": "JJH|``LoDv",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c1::Egipto}} fue dominada por los persas por parte de&nbsp;<i>Cambyses</i>&nbsp;(hijo de {{c3::Ciro el Grande}}) en el año 525 BCE.&nbsp;",
+                "<img src=\"paste-6c3abef21cb3d0dd8f9cba8fd9b5b7f64dba5980.jpg\"><br><div><sub>Meeting Between Cambyses II and Psammetichus III, as imaginatively recreated by the French painter Adrien Guignet</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "eu269#+Tk`",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "El imperio persa <i>Achamenid</i> alcanzó su máxima extensión bajo el mando de {{c1::Darius The Great.}}",
+                "<img src=\"paste-73860ee564d1fa568bc9c829ac22e8f4c058d30f.jpg\"><br><div><div>Relief of Darius I in Persepolis</div></div>"
+            ],
+            "flags": 0,
+            "guid": "lC61zZ3z_#",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Las 1eras guerras entre Persia y Grecia (greco-persas) ocurrieron bajo el mando del emperador persa {{c1::Darius The Great}}.",
+                "<img height=\"400\" src=\"paste-af21cd2d21a3065b8c3d0fba0f61c15142ac64c0.jpg\"/><br/><div>Persian soldier (left) and Greek hoplite (right) depicted fighting, on an ancient kylix, 5th century BC<br/></div>"
+            ],
+            "flags": 0,
+            "guid": "rxTM,N;.@4",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Los asirios fueron una sociedad patriarcal y de las más {{c1::bárbaras}} de la Antigua Mesopotamia.",
+                "<img src=\"paste-d9c1a319917a1c1795238a1c25d482fc5b8b3fa2.jpg\"><br><div>Relief with Ashurbanipal killing a lion, c. 645–635 BC<br></div>"
+            ],
+            "flags": 0,
+            "guid": "Cl:-qa7W23",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Texto de la antigua mesopotamia que se cree que dio origen al mito del Diluvio Universal",
+                "El Poema de Gilgamesh",
+                ""
+            ],
+            "flags": 0,
+            "guid": "B1EurG;aZu",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "La historia de Asiria se divide en los periodos:<div><br></div><div>0. {{c1::Early Assyrian Period}} (~2600 BCE - 2025 BCE)<br><div><div>1. {{c2::Imperio Antiguo Asirio}} (~2025 BCE - 1378 BCE)</div><div>2. {{c3::Imperio Asirio Medio}} (~1392 BCE - 934 BCE)</div><div>3. {{c4::Imperio Neoasirio}} {{c5::(~ 911 BCE - 609 BCE)}}</div></div></div>",
+                "<img src=\"paste-d65f586bcd41954f95e36936d83b2a34e2d5447c.jpg\"><br><div><div> <div><sub>&nbsp;Babylonia under Assyrian Siege ~730 BCE</sub></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "KEFMfKN>)M",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "La religión de los persas ({{c2::zoroastrianismo}}) era dualista (orden vs caos) y es una de las religiones {{c1::monoteístas::teísmo}} más antiguas del mundo.",
+                "<img src=\"paste-0ab52f705d3aa890e133df3238cfd1bbcaf60274.jpg\"><br><div><div><sub>Atar (fire), a primary symbol of Zoroastrianism</sub></div></div>"
+            ],
+            "flags": 0,
+            "guid": "w%SF[-8rp?",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "El emperador Aquménida <i>Cyrus the Great</i>, respecto a los pueblos que conquistaba, {{c1::los dejaba conservar sus tradiciones y creencias a cambio de un tributo}} con el objetivo de {{c2::reducir las posibles revueltas internas}}. Además, asignaba {{c3::un gobernador local en las regiones conquistadas}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A5k#UhJ58r",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "El gobernador persa {{c1::<i>Cyrus the Great</i>::aqueménida}} permitió el retorno de los judíos a Israel en el año 538 BCE, luego de que fueron expulsados por los {{c2::neobabilónicos}}.",
+                "<div><div>Primer cautiverio de los hebreos del reino de Israel fue&nbsp;<b>Assyrian captivity</b>&nbsp;o <b>Cautiverio del Nínive</b>&nbsp;en el el año ~740 BCE.</div><div>El segundo exilio fue por parte del imperio Neobabilónico al Reino de Juda, lo que se conoce como el&nbsp;<b>cautiverio de Babilonia&nbsp;</b>~590 BCE</div></div><div><br></div><img src=\"paste-1e1439dc10b6839c8eb1042f956f1e9caee865b2.jpg\"><br><div><sub>Cyrus the Great is said in the Bible to have liberated the Jews from the Babylonian captivity to resettle and rebuild Jerusalem, earning him an honored place in Judaism.</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "x(r3}8`L]|",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "En la Antigua Persia, la creación de {{c1::satrapías y los sátrapas::distritos y sus gobernadores}}, por parte del gobernador {{c2::Darius the Great}}, fue para tener más control sobre el imperio Aqueménida.",
+                "<div><div></div><img height=\"600\" src=\"1280px-Tribute_in_the_Achaemenid_Empire.jpg\"></div><div>Volume of annual tribute per district, in the Achaemenid Empire.<br></div>"
+            ],
+            "flags": 0,
+            "guid": "zekf3|zNd8",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "El gobernador persa Darius the Great dividió el poder mendiante la creación de un gobernador {{c1::político}} (sátrapas) y otro {{c2::militar}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BC(~AJg2Qv",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ventajas que trajo consigo la creación del&nbsp;<b>Dárico</b>&nbsp;(moneda) en Persia",
+                "<div>En Persia, la creación de esta moneda permitió tener un estándar entre las diversas regiones, por lo que hizo más fácil la recolección de tributos y la acumulación de riqueza.&nbsp;</div>",
+                "<img src=\"paste-bd67bffd272af2b146e673f1f79e4b0b20138491.jpg\"><br><div><div></div><sub>Type IIIb Achaemenid Daric, c. 420 BC.</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "D*:m2r+$-k",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "La construcción de la ciudad Persa {{c1::Persépolis::nombre}} fue bajo el mando de {{c2::Darius the Great}} en el siglo {{c3::VI BCE (521 BCE)}}.&nbsp;",
+                "<img src=\"paste-524eb24ba1091467db35ecf5d7a8a5bd86a94dbd.jpg\">&nbsp;<img src=\"paste-776cee230bb9ff00dd4d1916be2c2e7fd532d4bd.jpg\"><br><div><sub>Izq. Gate of All Nations (Gate of Xerxes)</sub></div><div><sub>Der.&nbsp;Aerial architectural plan of Persepolis</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "BvOHBL!W3>",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "En la Antigua Persia, la posición geográfica de {{c1::Persépolis::ciudad}} hacía que {{c3::no fuera accesible fácilmente}} y tenía más fines {{c2::administrativos}}.",
+                "<img src=\"paste-8810c0fe5ffc38769e4b30b9244b1f2de67821eb.jpg\">&nbsp;<img src=\"paste-db8a26a9e6be05eb295a9e8901187090b15cad14.jpg\"><div><sub>Der. Persepolis basin (cuenca)</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "i/Y=JN<yJ;",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "El ejército persa Aqueménida perdió la batalla de {{c1::Marathon}} en el año {{c2::490 BCE}} ante los griegos.",
+                "<img src=\"paste-89a68f906b662f17b245a5648a6defd08fd943cd.jpg\"><br><div>Battle of Marathon<br></div>"
+            ],
+            "flags": 0,
+            "guid": "I&9/Ce25Ha",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece",
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "En la Persia Aqueménida, hay poca evidencia de que existió {{c1::esclavitud}} y se cree que todos los habitantes recibían {{c2::un salario de acuerdo a sus funciones}}.",
+                ""
+            ],
+            "flags": 0,
+            "guid": "zFAn12*gOi",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Periodo de tiempo donde se ubica Grecia Micénica&nbsp;",
+                "1600 BCE - 1100 BCE",
+                "<img src=\"paste-fd900b12e4b79706a89bbe374ba2f84b4f4cdfb2.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "f>>K1SEjL?",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Periodo de Australopithecus",
+                "Vivieron entre 4 000 000 y 2 000 000 BCE",
+                "<img src=\"paste-f4efc26ace4cf742363ac1dd53c27829eb6b0f5b.jpg\">&nbsp;<img src=\"paste-570d717ebddee2cfd93dcf19ef4e1f10c11095fc.jpg\"><div><sub>A replica of the remains of Lucy</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "F<|>ew/`U<",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::Pre-History"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Intervalo de tiempo del Periodo paleolítico",
+                "2 500 000 - 15 000 BCE",
+                "<img src=\"paste-c7f0adfaed63d6ae79abc730765647859bed7ade.jpg\"><br><div>Cave of Altamira and Paleolithic Cave Art of Northern Spain<br></div>"
+            ],
+            "flags": 0,
+            "guid": "vU~$d2{kE8",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::Pre-History"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Fecha de cruce del estrecho de Bering",
+                "15 000 BCE",
+                "<img src=\"paste-b05eaa9d0d4798f1f8628dc33654d875cac108f4.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "ydR)(aYNhS",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::Pre-History"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Qué elemento natural hizo posible el desarrollo de la civilización Egipta?",
+                "El asentamiento alrededor del río Nilo",
+                ""
+            ],
+            "flags": 0,
+            "guid": "ti(T,79tal",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientEgypt"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Periodo egipto donde se desarrollaron importantes avances en tecnologías de irrigación",
+                "Periodo Imperio Antiguo de Egipto",
+                "<div>Duración Imperio Antiguo de Egipto o Reino Antiguo ~2600 BCE - 2100 BCE<div>Periodo que se caracteriza por consolidar el sistema político, cultural y religioso, marcado con una divinización absoluta del faraón y un poder político fuertemente centralizado.</div><div>Época de creacion de pirámides</div></div><div><br></div><div><img src=\"1280px-All_Gizah_Pyramids2.jpg\"><img src=\"paste-f34e728c25084f3259a4d453794d13456a81ce1b.jpg\"><br></div><div><sub>Las Pirámides y la gran Esfinge de Guiza</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "Qhc,FHp+>u",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientEgypt"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Qué periodo de Egipto poseyó las mejores tecnologías y capacidad militar?",
+                "Imperio Nuevo de Egipto",
+                "<div>Duración periodo:&nbsp;1550 BCE - 1070 BCE</div><div><br></div><img src=\"paste-67b4db88fdf4ca0e837fd8c9b556a2d36a150062.jpg\"><br><div><sub>Ramesses II in his war chariot, charging the Nubians ~1250 BCE</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "rB|l{].SFn",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientEgypt"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Qué faraón Egipto lideró la batalla de Kaddesh?",
+                "Ramses II",
+                "<img src=\"paste-116146304c1807e85b5f7d763e55389a73ae68d9.jpg\"><br><div><sub>Ramesses atop chariot, at the battle of Kadesh</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "f|VuV2Ux);",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientEgypt"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Primera batalla conocida que utilizó táctitas y formaciones militares (Egipto vs Hititas)",
+                "Battalla de Qadesh",
+                "<img src=\"paste-807af4c1ae30931f65b733d71d4f03ad335fcfbf.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "Mp0tISqa1/",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientEgypt"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿La religión del antiguo Egipto era politeísta o monoteísta?",
+                "Politeísta",
+                "<img src=\"paste-ed7672a98359255bbf8cd3e7064258687bf14b73.jpg\"><br><div><div></div><sub>Los dioses Osiris, Anubis, y Horus, en orden de izquierda a derecha.</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "P6}dL&3Z;o",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientEgypt"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "En el Late Period, Egipto fue gobernado por:<div><br></div><div>{{c2::Neo-Asirios}} ~670 BCE<div>{{c1::Persas (Imperio Aqueménida)}} ~525 BCE</div></div>",
+                ""
+            ],
+            "flags": 0,
+            "guid": "o=dFz_B!dw",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientEgypt"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Última reina del periodo Egipto",
+                "Cleopatra",
+                "<img src=\"paste-982c70daa56c48f9e81412af9c83e3e6bfacd292.jpg\"><br><div><sub>Escultura romana de Cleopatra ~45 BCE</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "r<gvG?5u<l",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientEgypt"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿A qué imperio en mesopotamia Nabopolassar (658 BCE – 605 BCE) dio origen?",
+                "Al imperio Neobabilónico (626 BCE – 539 BCE)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "h7-y3y]%#^",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿A qué imperio, el emperador neobabilónico Nabopolassar (658 BCE – 605 BCE), hizo caer?",
+                "Al imperio Neo-Asirio (911 BCE – 609 BCE)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "bWcG<sgD0c",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "En el periodo del imperio {{c1::neobabilónico}} se capturó el reino de {{c1::Judá}} en el año 597 BCE. Se conoce este periodo como {{c2::<b>Cautiverio de Babilonia</b>}}.",
+                "<div>Este fue el segundo exilio vivido por los hebreos. El primero fue la&nbsp;<b>Cautividad de Nínive</b>&nbsp;por parte del imperio neoasirio al Reino del Norte (Reino de Israel)&nbsp; ~740 BCE.</div><div><br></div><div><br></div><img src=\"paste-76127af4c2f77aa9ba83332f341f8cc063558654.jpg\"><br><div><sub>El exilio babilónico: deportación de los hebreos del Reino de Judá a Babilonia tras la destrucción del (primer) Templo de Jerusalén, siglo VI a C. (Tissot, 1896-1902).</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "sj#]^}Z^Te",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Duración (siglos) del imperio Hitita o Hatti",
+                "1700 BCE - 1100 BCE",
+                "<img src=\"paste-caeb82abbda4fed4e06d8e74153f0729b7d291a1.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "y8F2;b4S9R",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Los Hititas fueron conocidos por {{c1::sus carros de combate::militar}} y ser de los primeros en {{c2::trabajar con el hierro::fundición}}.",
+                "<img src=\"paste-7dace3d30fa3accac5bbc9f2c6880d488bee8477.jpg\"><div><sub>Representación egipcia de un carro de combate Hitita</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "Ipn,!,enx7",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Cuál era el objetivo de casar vasallos de pequeños reinos gobernados por el imperio Hitita con miembros de la familia real Hitita?",
+                "Generar una lealtad política hacia el imperio de los Hititas",
+                "A partir de esto los Hititas entregaban protección a cambio de un tributo"
+            ],
+            "flags": 0,
+            "guid": "mK[y4b72zW",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿En qué siglo fue la batalla de Qadesh?",
+                "Siglo XIII BCE (1274 BCE)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "KuYPoA.~LP",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientEgypt",
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "La lengua hitita (o nesita) es parte de las llamadas lenguas&nbsp;{{c1::indoeuropeas}}",
+                "<img src=\"paste-779ef399868d10e4bbdca290af1ac631e144b0ba.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "Aw{@O]=+5b",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿En qué periodo de la antigua India vivió el buda Siddharta Gautama?",
+                "Finales del periodo védico ~500 BCE",
+                "<img src=\"paste-f3ddeddb65c8f4093ad1aac7067949991bdf9a36.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "lgS}_vWb*r",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientIndia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Principales áreas de desarrollo del periodo védico",
+                "Filosofía y religión",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mZEA#we:op",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientIndia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Cómo enterraba a la gente aristócrata en la dinastía Shang?",
+                "En <b>tumbas de fosas</b> donde eran enterrados juntos a sus posesiones e incluso sus esclavos",
+                "<img src=\"paste-feaf71b8e216fba874607ac5ebf76d062b3e9028.jpg\"><br><div><div></div><sub>Bronzewares from the excavated tomb of Fu Hao</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "xKu;M^71$w",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientChina"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Se conocían como la <i>gente de hule</i> (<i style=\"\">rubber people</i>)",
+                "Nombre con el que se conocían a los Olmecas",
+                "Duración aproximado civilización olmeca 1650 a 350 BCE"
+            ],
+            "flags": 0,
+            "guid": "Q=qM65CE[D",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientAmericas"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Teorías del declive de la civilización Olmeca",
+                "1. Cambios climáticos&nbsp;<div>2. Desplazamiento debido al aumento de actividad volcánica<br></div>",
+                "Duración aproximado civilización olmeca 1650 a 350 BCE"
+            ],
+            "flags": 0,
+            "guid": "hRu@5#|Hgb",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientAmericas"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Civilización andina que creó el monolito \"El Lanzón\"",
+                "Civilización Chavín",
+                "El lanzón monolítico representa a un dios antropomorfo con boca de felino y cabellera de serpientes.&nbsp;<div>Tiene la forma de una gigantesca punta de proyectil y posee una longitud de 5&nbsp;metros. Se encuentra en uno de los corredores del Templo de Chavín de Huántar.<div><br></div><div><img src=\"paste-0f0f9de616e1726c31a6d400317ec76d65f46c12.jpg\"><img src=\"paste-3c4c7dd041fbf5d3d8932c52232d7c9bfa02c3c7.jpg\"><br><div><div></div><br></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "f@1s7iy;k`",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientAmericas"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Los 2 principales consecuencias que produjo la agricultura en la humanidad, aparte del cambio en la dieta y los asentamientos de la gente",
+                "Especialización de labores y aumento de la densidad de población",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HrC9,&IikK",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::General",
+                "WH::Pre-History"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Con qué hito impotante se relaciona la Edad de Bronce",
+                "Edad que comienza con el desarrollo de la escritura",
+                ""
+            ],
+            "flags": 0,
+            "guid": "pX>uLDaw80",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::Pre-History"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Las principales razones que llevaron a la diferenciación del hombre respecto a otros animales",
+                "<b>Lenguaje simbólico</b> en conjunto con la <b>memoria colectiva</b>",
+                "Esto permite comunicarse y transmitir conocimientos utilizando conceptos abstractos y no solamente refiriéndose a cosas físicas."
+            ],
+            "flags": 0,
+            "guid": "H$y!q7|yr=",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::General",
+                "WH::Pre-History"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Definición de agricultura",
+                "Es cómo el hombre manipula su entorno para hacerlo más adecuado (<i>suitable</i>) para sí mismos",
+                ""
+            ],
+            "flags": 0,
+            "guid": "BO&~on.,HF",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::General"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Primera forma de agricultura desarrollada por el hombre&nbsp;",
+                "Firestick farming",
+                "<img src=\"paste-2b973d30e5506cb09c0d3e889c5d9e8d51e9fc82.jpg\"><br><div><sub>Representación de aborígenes australianos</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "JZUi_M:fO",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::Pre-History"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Qué hizo posible que el imperio Aqueménida se expandiera exitosamente?",
+                "La tolerancia religiosa y cultural",
+                "Permitía que los pueblos conquistados mantuvieran gobernadores locales y además podían conservar sus tradiciones."
+            ],
+            "flags": 0,
+            "guid": "f>fbl>~^M,",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "La antigua Grecia no era un imperio sino un grupo fragmentado de cientos de {{c1::ciudades estado (<i>polis</i>)}} que compartían algunas cosas como {{c2::lenguaje}} y {{c3::religión}}",
+                "<img src=\"paste-f37f21548f6582f8fd696c538548626f98403f84.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "g/!~q9seQl",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Qué elemento natural dificultaba la unión de las polis de la Antigua Grecia para formar un imperio?",
+                "La geografía que incluye montañas y terrenos irregulares",
+                "<img src=\"paste-0d6e9119360c998f2935e0d1aefe788d815774e3.jpg\"><br><div><sub>Topographic map of Greece</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "l4|Rs)Vcw7",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Definición de ágoras:<div><br></div><div>Son {{c1::espacios públicos abiertos}} donde existía actividad {{c2::civil y comercial}} como teatro, fines políticos, gimnasios, etc.</div>",
+                "<img src=\"paste-953076c24b5176ed65c6943fbf6a3e89084dad82.jpg\"/> <img src=\"paste-b39c98c6327de127f14d74b82e018a89d88c248b.jpg\"/><br/><div><div></div><sub>Izq. Stoa of the ancient <i>agora</i> of Thessaloniki<br/></sub></div><div><sub>Der. The Hephaisteion at the Agora of Athens</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "i3&4Kh&fTi",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Tipos de dramas creados en la Antigua Grecia",
+                "La tragedia y la comedia",
+                "<img src=\"paste-d4fc23139fd26a7d821c23f3eb38f8bbf82934cd.jpg\">"
+            ],
+            "flags": 0,
+            "guid": "v}4Tp&:p>S",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "La Iliada y La Odisea fueron transcritos en el siglo {{c1::VII BCE (~670 BCE).}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HwG,.UYa-m",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "La era dorada griega está enmarcada por los eventos históricos de {{c1::las expansiones del imperio persa aqueménida (~500 BCE)::esplendor imperio aledaño}} y por {{c2::la muerte de Alejandro Magno (323 BCE).}}",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A-;$qX)r`t",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Introdujo el concepto de democracia en la Antigua Grecia",
+                "Principal aporte de Pericles (~450 BCE) a la política",
+                "<div><img src=\"paste-11d738071dad9681d10f21dc293e6edd66bef3ff.jpg\"><br><div><sub>Bust of Pericles bearing the inscription “Pericles, son of Xanthippus, Athenian”</sub></div></div>"
+            ],
+            "flags": 0,
+            "guid": "hsy!wMP,*6",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Vivió en la Antigua Grecia. Durante su periodo se potenciaron las potenciaron las artes y la arquitectura en Athenas.",
+                "Pericles (~450 BCE)",
+                "<img src=\"paste-11d738071dad9681d10f21dc293e6edd66bef3ff.jpg\"><br><div><sub>Bust of Pericles bearing the inscription “Pericles, son of Xanthippus, Athenian”</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "x%5yMbU=a#",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Los juegos olímpicos tenían significancias del tipo {{c1::religiosas.}}",
+                "Se jugaban en Olympia en honor a Zeuz y se jugaron desde 776 BCE a 393 CE.&nbsp;Atraían gente de toda la región y se prohibían las guerras para la peregrinación.<div><br></div><div><img src=\"paste-12f11059a4ba2d58abc6f1e8bc59d496d2b6e605.jpg\"><br><div><sub>Wrestlers on an ancient Greek cup</sub><br></div></div>"
+            ],
+            "flags": 0,
+            "guid": "jTM!@ogB:]",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Fue el principal antecedente de las guerras médicas (greco-persas)",
+                "La <b>revuelta jónica</b> (Ionian Revolt) fue el principal antecedente de ese evento (~500 BCE)",
+                "<div>Jonia era una ciudad-estado ubicada en la costa centro-occidental de Anatolia (no confundir con islas jónicas que se encuentran en Grecia).</div><div><br></div><img src=\"paste-bc7d039ed6b7e6714141fb36a9163c3dd7f7c432.jpg\"><br><div><sub>The burning of Sardis by the Greeks and the Ionians during the Ionian Revolt in 498 BC.</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "Q}&V`ESL$I",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece",
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Siglo en que se desarrollaron las guerras médicas",
+                "Siglo V BCE",
+                "<div>En el año ~492 BCE se desarrolla la primera guerra: <b>Batalla de Marathon</b></div><div>Termina en el año ~449 BCE con la firma de la <strong>Paz de Calias</strong><br></div><div><br></div><div><img src=\"Screenshot from 2020-05-28 22-53-19.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "o~|]8YF)Gk",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece",
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Cuántas invasiones hizo el imperio Aqueménida a Grecia en las Guerras Médicas?",
+                "2 invasiones",
+                "La primera termina con la victoria ateniense en la batalla de Marathon 490 BCE<div>La segunda termina con&nbsp;la derrota persa en la batalla de&nbsp;Platae 479 BCE</div><div><br></div><div><img src=\"Map_1st_Greco-Persian_Wars.jpg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "N;@LSJTjoh",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece",
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Historiador griego que narró las guerras greco-persas",
+                "Estas guerras fueron narradas por el griego&nbsp;<b>Herodotus</b> (484 BCE - 425 BCE).",
+                "<img src=\"paste-4d320b6a50275d56815bc0c955cd59f3d0b4c18b.jpg\"><br><div><sub>A Roman copy (2nd century AD) of a Greek bust of Herodotus from the first half of the 4th century BC</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "NjHoGM/q:Q",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece",
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Historiador griego que narró las <b>Guerras del Peloponeso</b>",
+                "Estas guerras fueron narradas por el historiador griego <b>Thucydides</b> (Tucídides)",
+                "<div>Vivió entre 460 BCE y 400 BCE<br></div><div><br></div><img src=\"paste-7cbeb6ae6ec164166cbc504391aa80ecf7103e23.jpg\"><br><div><sub>Bust of Thucydides</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "v#49=rx$,|",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Periodo de la Edad Oscura griega",
+                "1100 BCE - 800 BCE",
+                "Se denomina así debido a la escasez de fuentes de este periodo, haciendo difícil una reconstrucción histórica."
+            ],
+            "flags": 0,
+            "guid": "y4CK~:n_d>",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "En la Batalla de Thermopylae (~480 BCE) ¿quién resulta victorioso?",
+                "El imperio Aqueménida",
+                "Es parte de las Guerras Médicas. Ocurrió durante la segunda invasión Persa.<div>Es la batalla en la que se basó la película 300</div><div><br></div><div><img src=\"Scene_of_the_Battle_of_the_Thermopylae.jpg\"><img src=\"Leonidas-Thermopylae-oil-canvas-Jacques-Louis-David-Louvre-1814.jpg\"><br></div><div><sub>Izq. 19th-century painting by John Steeple Davis, depicting combat during the battle.<br></sub></div><div><sub>Der. Leonidas at Thermopylae, oil on canvas by Jacques-Louis David, 1814; in the Louvre Museum, Paris.</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "jE=WH?1e,2",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece",
+                "WH::AncientPersia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::Peloponeso}} es la península griega donde se ubicaban las polis {{c1::Esparta}} y Corinto.",
+                "<img src=\"354px-Periferia_Peloponnisou.png\"><br><div><sub>Región del Peloponeso</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "i`ZTrgJv;R",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "{{c2::Ática}} es el sector de Grecia donde se ubicaba la polis {{c1::Atenas}}.",
+                "<img src=\"596px-Greece_(ancient)_Attica.svg.png\"><div><sub>Región griega Ática antigua&nbsp;</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "m$^9U@:2.B",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿A raíz de qué evento se debilitaron las polis griegas y que conllevó a que Philip de Macedonia tomara el control?",
+                "La guerra del Peloponeso",
+                ""
+            ],
+            "flags": 0,
+            "guid": "iux`/k+ocL",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Entre qué polis griegas fue el conflicto de la Guerra del Peloponeso?",
+                "Entre Atenas y Esparta",
+                "<img src=\"paste-93100fcba325a70a6b71edaa86286df4d2f48b9d.jpg\"><br><div><sub>The Alliances of the Peloponnesian War</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "o>ndgMdIo>",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿En qué siglo se desarrolló la Guerra del Peloponeso?",
+                "Siglo V BCE. Entre 431 BCE y 404 BCE",
+                "El periodo de tiempo 460 BCE - 445 BCE se considera como la Primera Guerra del Peloponeso y terminó con un periodo de paz de 15 años (que se suponía serían 30 años)."
+            ],
+            "flags": 0,
+            "guid": "q[C]z9lX*]",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Qué llevó a Esparta a enfrentarse a Atenas en la Primera Guerra del Peloponeso?",
+                "La amenaza que sentían del poderío ateniense (principalmente sus flotas y su liderazgo en Liga de Delos)",
+                "Otros antecedentes que aportaron fueron:<div>* La <b>revuelta de los ilotas</b> (<i>helots</i>) luego del terremoto en Esparta en 464 BCE. Esparta se sintió ofendida luego de que Atenas enviara 4000 soldados para ayudarlos a contener la revuelta.</div><div>* Esparta se sintió amenazada por la construcción de <b>Los Muros Largos de Atenas</b> (~460 BCE).</div><div><br><div><div><img src=\"paste-63932ae5e8558b8eeff90fae4e7909ccbb587c26.jpg\"><br></div></div></div><div><sub>Long Walls</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "Ixj,Ra&bzy",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "En Esparta, ¿quiénes eran los <i>helots</i> (ilotas)?",
+                "Eran los siervos o esclavos de Esparta",
+                "<img src=\"paste-4dc07f2f5a116d1f0b5ba063d7e1db12ca1ff5df.jpg\"><br><div><sub>Helots being beaten by Spartans, illustration from the 20th century</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "jI9M-sHFu!",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "En la Antigua Grecia, ¿qué era la Liga de Delos?",
+                "Fue grupo político-militar liderado por Atenas",
+                "<div>Duración: 479 BCE - 404 BCE</div><div><br></div><img src=\"paste-5a888a7e9197d8369aa5c9f950971d4a18bdb44c.jpg\"><div><sub>Imperio ateniense</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "KGcjZu<E7w",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Las 3 fases de la guerra del Peloponeso son:&nbsp;<div>1. <b>Archidamian War (Guerra&nbsp;arquidámica) 431 BCE:</b>&nbsp;Donde los {{c1::espartanos}} tratan de tomar el control de {{c1::el Ática::región}}. Termina con la Paz de Nicias (421 BCE).</div><div><div>2.<b>Attack at Syracuse (Batalla de Siracusa) 415 BCE:&nbsp;</b>Donde los {{c2::atenienses}} intentan tomar el control de {{c2::Siracusa, Italia::city}} (415 BCE) pero son derrotados por estos gracias a la ayuda de {{c2::Esparta::polis}}.</div><div>3. <b>Ionian War or&nbsp;Decelean War (Guerra de Decelia):&nbsp;</b>Donde los {{c3::espartanos}} tratan de tomar&nbsp;<i>Decelea</i>&nbsp;(norte de el {{c3::Ática::región}}) con ayuda de los {{c3::persas aqueménidas}}. Termina con la batalla de&nbsp;Aegospotami (costa de Turquía) en el año 405 BCE y la rendición de {{c3::Atenas::polis}}.</div></div>",
+                "<div>Respecto a la tercera fase, el nombre de la guerra de Jonia viene de que el teatro de operaciones militares se encontraba en Jonia (Turquía), y Decelia porque fue el centro de estrategia del Peloponeso.</div><div><br></div><img src=\"paste-76dade04083f03507b0c2d16acc5c1633ca41858.jpg\"><br><div><sub>Fases Guerra del Peloponeso</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "CGZID}4pXf",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Principal consecuencia de la victoria espartana en la Guerra del Peloponeso",
+                "<div>Debilitación económica de polis griegas</div>",
+                "<b>Hegemonía espartana</b> (Se debía pagar tributos a Esparta).<br><div>Facilitación en la conquista de parte de&nbsp;<i>Philip of Macedon.</i><br></div>"
+            ],
+            "flags": 0,
+            "guid": "s~b/jG5GxI",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Historia de la ciudad de Babilonia:<div><br></div><div>1. {{c1::<b>Primer Imperio babilónico o paleobabilónico</b>}}: Imperio fundado por Hammurabi (1792 BCE - 1750 BCE) y termina con el saqueo de Babilonea por parte de los {{c2::los hititas}}&nbsp;1595 BCE.</div><div>2. {{c3::<b>Imperio Asirio</b>}}: Babilonea pasó a formar parte del dominio {{c3::asirio}} después de la debilidad causada por los {{c2::hititas}}. Luego pasó a formar parte del imperio {{c3::neoasirio.}}</div><div>3. {{c4::<b>Imperio neobabilónico o caldeo</b>}}: Imperio fundado por el rey Nabucodonosor II (605 BCE - 562 BCE).</div><div>4. {{c5::<b>Imperio persa aqueménida</b>}}: En el año 539 BCE cayó bajo el dominio de {{c5::Ciro el grande}}.</div>",
+                "<img src=\"paste-b1c8c5d469a91da90059377f0cb4c8dc092ffbd4.jpg\"><img src=\"3401.jpg\"><img src=\"paste-aab7e7241f311a7f5006cb04297d7159719325d5.jpg\"><br><div><div></div><sub>1. Babylon in 1932<br></sub></div><div><sub>2. Old Babylonian cylinder seal, hematite. Hammurabi period<br></sub></div><div><div></div><sub>3. Babylonian soldier in the Achaemenid army, circa 470 BCE, Xerxes I tomb.</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "i<uslb(PN$",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "<div>¿Qué se muestra en la imagen?</div><div><img src=\"paste-51c028a66c8ae0d1ea45dd600e0c33a46fe3e671.jpg\"><br></div>",
+                "Jardines colgantes de Babilonea. Al fondo la torre de Babel",
+                "<div>Construídos bajo el reinado del neobabilónico&nbsp;Nabucodonosor II ~600BCE</div><div><br></div><div><sub>Pie de foto: Probablemente producida en el siglo XIX esta pintura representa una visión idealizada de los Jardines Colgantes de Babilonia. Al fondo puede distinguirse la Torre de Babel.</sub></div><div></div>"
+            ],
+            "flags": 0,
+            "guid": "o[t-.]FTyL",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿En qué siglo y bajo qué imperio fueron construídos los Jardines Colgantes de Babilonia?&nbsp;",
+                "<div>Construídos bajo el reinado del emperador neobabilónico&nbsp;Nabucodonosor II ~VI BCE<br></div>",
+                "<div><img src=\"paste-51c028a66c8ae0d1ea45dd600e0c33a46fe3e671.jpg\"><sub><br></sub></div><sub>Probablemente producida en el siglo XIX esta pintura representa una visión idealizada de los Jardines Colgantes de Babilonia. Al fondo puede distinguirse la Torre de Babel.</sub>"
+            ],
+            "flags": 0,
+            "guid": "N$L<7A5+~$",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientMesopotamia"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Qué rey logró unificar Grecia después de la Guerra del Peloponeso?",
+                "Filipo II de Macedonia (<i>Philip II of Macedon</i>)",
+                "<img src=\"paste-c8c5136765c43bc95f09353a9fc8db84df143c2a.jpg\"><br><div><sub>Phillip II, king of Macedonia, Roman copy of Greek original, Ny Carlsberg Glyptotek, Copenhagen</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "OS(WUr@t>_",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::HellenisticPeriod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿En qué siglo vivieron Philip II y su hijo Alejandro Magno?",
+                "Siglo IV BCE",
+                ""
+            ],
+            "flags": 0,
+            "guid": "c`_g)F@`fV",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::HellenisticPeriod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Cómo Philip II de Macedonia logró conquistar la mayor parte de Grecia?",
+                "Porque las ciudades-estado griegas estaban debilitadas económicamente por la Guerra del Peloponeso",
+                "<img src=\"paste-030cee906315c94758615da2640097120dcbbc36.jpg\"><br><div><div></div><sub>Map of the territory of Philip II of Macedon</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "KD_};PC1,8",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::HellenisticPeriod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Alexander the Great llegó a conquistar {{c1::Asia Menor}}, {{c2::Siria}}, Egipto, {{c4::Mesopotamia}} y {{c5::Bactria}}.",
+                "<div><img src=\"pasted_image003.jpg\" width=\"1100px\"><br><div><sub>Map of Alexander's empire and his route</sub></div></div>"
+            ],
+            "flags": 0,
+            "guid": "sfx,~}r/hz",
+            "note_model_uuid": "334de223-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::HellenisticPeriod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Fue el efecto más grande de la unificación de Alejandro Magno&nbsp;",
+                "La expansión de la cultura griega fue debida a su imperio",
+                "<div><div><img src=\"pasted_image003.jpg\"/><br/><div><sub>Map of Alexander's empire and his route</sub></div></div></div>"
+            ],
+            "flags": 0,
+            "guid": "NmrbkYg_@{",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::HellenisticPeriod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Federación de los estados griegos creada por el rey de Macedonia, Filipo II",
+                "Liga de Corinto (También conocido como Liga Helénica)",
+                "<div>Se estableció el año 338 BCE como alianza entre estados griegos contra el imperio Aqueménida. Se disolvió en el año&nbsp;322 BCE.<br></div><div><br></div><div><img src=\"paste-030cee906315c94758615da2640097120dcbbc36.jpg\"><br><div><div></div><sub>Map of the territory of Philip II of Macedon</sub></div></div>"
+            ],
+            "flags": 0,
+            "guid": "N|7_HG7=4A",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::HellenisticPeriod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Cuál fue la única ciudad-estado griega que no pudo conquistar Philip II de Macedonia?",
+                "Esparta",
+                "<div><img src=\"paste-030cee906315c94758615da2640097120dcbbc36.jpg\"><br><div><div></div><sub>Map of the territory of Philip II of Macedon</sub></div></div>"
+            ],
+            "flags": 0,
+            "guid": "qhM/R>-ni(",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::HellenisticPeriod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿En qué año Alexander the Great llegó a convertirse en rey?",
+                "336 BCE",
+                "<img src=\"paste-79ac7bb1223f727fd372938188b8c307f4ebf7b4.jpg\"><br><div><div><sub>Alexander Mosaic (c. 100 BC), ancient Roman floor mosaic from the House of the Faun in Pompeii showing Alexander fighting king Darius III of Persia in the Battle of Issus</sub></div></div>"
+            ],
+            "flags": 0,
+            "guid": "eg{1i)@;#>",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::HellenisticPeriod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Quién fue el maestro de Alexander the Great en la adolescencia?",
+                "Aristóteles",
+                "<div><img src=\"paste-90b4a2b823b0016d0bede69e307e1db97345a40c.jpg\">&nbsp;<img src=\"paste-e4c173647e16a95ac2ead3ab937fc37e5f15e9d1.jpg\"><br><div><sub>Izq<i>. Aristotle Tutoring Alexander</i>, by Jean Leon Gerome Ferris</sub><br></div><div><sub>Der.&nbsp;<i>Aristotle Tutoring Alexander&nbsp;</i>Engraving by Charles Laplante</sub></div></div>"
+            ],
+            "flags": 0,
+            "guid": "mp)/%7Lk)o",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::HellenisticPeriod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Qué gran conquistador fue pupilo de Aristóteles?",
+                "Alejandro Magno",
+                "<img src=\"paste-90b4a2b823b0016d0bede69e307e1db97345a40c.jpg\">&nbsp;<img src=\"paste-e4c173647e16a95ac2ead3ab937fc37e5f15e9d1.jpg\"><br><div><sub><i>Izq. Aristotle Tutoring Alexander</i>, by Jean Leon Gerome Ferris</sub><br></div><div><sub>Der.&nbsp;<i>Aristotle Tutoring Alexander&nbsp;</i>Engraving by Charles Laplante</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "dcR<ZJ/t>|",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::HellenisticPeriod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Cuántos años aproximadamente dura la campaña de conquista de Asia Menor de Alejandro Magno?",
+                "Aprox. 10 años (11 años)",
+                "<div>334 BCE - 323 BCE<br/></div><div><br/></div><img src=\"pasted_image003.jpg\" width=\"1100px\"/><br/><div><sub>Map of Alexander's empire and his route</sub></div>"
+            ],
+            "flags": 0,
+            "guid": "hO<3tS5>O7",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::HellenisticPeriod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Quién fue el emperador persa que se enfrentó a Alejandro Magno?",
+                "Darius III, Shah in Shah (rey de reyes)",
+                "<img src=\"paste-5c75c81687df0b917f6a429e9ec41ccf5b7f965a.jpg\"><br><div><sub>Darius III of Persia</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "e*E_LgdvV~",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia",
+                "WH::HellenisticPeriod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿De qué dioses clamaba ser hijo Alejandro Magno luego de visitar el oráculo de Ammon en Egipto?",
+                "De Zeuz-Ammon",
+                "<div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "cp#v89!-C[",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::HellenisticPeriod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Ciudad aqueménida (una de las capitales) construída por Darius the Great que destruye y saquea Alexander the Great",
+                "Destruye y saquea la ciudad persa Persépolis en el año 330 BCE",
+                "<div><img src=\"paste-7170db1205acad08e4dd1e700d77474a53c2a4c6.jpg\"><br></div><div><sub>Alexander the Great lifting <b>Thaïs</b>, who holds a torch, in \"The Burning of Persepolis\" (<i>Incendie de Persepolis</i>), Georges Rochegrosse, 1890</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "AHZLzA@=(:",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia",
+                "WH::HellenisticPeriod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Una de las ciudades más importantes fundada por Alejandro Magno en Egipto en el año 331 BCE",
+                "Alejandría",
+                "<div>Fue una de las más de 20 ciudades que fundó Alejandro Mango en su campaña</div><div><br></div><div><img src=\"paste-5c0a6f3fc3606e58b7d07a0da4f25152b893f886.jpg\"><br></div><div><sub>Alejandro fundando Alejandría, de Placido Costanzi</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "ge{(~km273",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::HellenisticPeriod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Qué estrategia política hizo posible que Alejandro Magno conquistara tanto territorio?",
+                "La política de <b>asimilación</b> que aplicaba&nbsp;en los pueblos conquistados",
+                "<div>Se incentivaba a los pueblos que mantuvieran sus costumbres y culturas y Alejandro Magno junto con su ejército se adaptaba a ellas (tanto ceremonias como vestimentas).</div><div>A él no le importaba tanto imponer su cultura y religión siempre y cuando ellos mantuvieran las líneas de suministros para mantener en buen estado a su ejército.<br/></div><div>Además el imperio persa aqueménida estaba debilitado por los fallidos intentos de invasiones a Grecia, una mala economía y por un mal liderazgo.</div><div><br/></div><div><img src=\"pasted_image003.jpg\" width=\"1100px\"/><br/><div><sub>Map of Alexander's empire and his route</sub></div></div>"
+            ],
+            "flags": 0,
+            "guid": "py^n?C2nnb",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientPersia",
+                "WH::HellenisticPeriod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Duración (siglos) periodo helenístico",
+                "Siglo IV BCE - Siglo I CE (323 BCE - 31 CE)",
+                "<div>Comienza con la muerte de Alejandro Magno y termina con la caída del últmo imperio helenístico heredero de la cultura griega, el imperio Ptolemaico.</div><div><br/></div><div><img src=\"hellenistic_mapp.jpeg\"/><br/></div>"
+            ],
+            "flags": 0,
+            "guid": "c(om#r*:}?",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::HellenisticPeriod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Qué es la Wars of Diadochi o Guerras de los Diádocos?",
+                "Fueron las guerras entre los generales sucesores de Alejandro Magno para dividirse el imperio heredado.",
+                "<div>Duración: 323 BCE - 281 BCE</div><div><br></div><div><img src=\"hellenistic_mapp.jpeg\" width=\"900px\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "elm5Jo|=~4",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::HellenisticPeriod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Cuáles fueron las grandes dinastías e imperios en los que se dividió el imperio de Alejandro Magno en las regiones de Asia Menor y Egipto?",
+                "El imperio Seleúcida<div>El imperio Ptolemaico</div>",
+                "<div>La dinastía Antigónida gobernó en gran parte de Grecia<br></div><div><br></div><div><img src=\"hellenistic_mapp.jpeg\"><br></div>"
+            ],
+            "flags": 0,
+            "guid": "jcv0v]<Mpu",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::HellenisticPeriod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Cuál fue la última región helenística en ser dominada por los romanos?",
+                "La región de Egipto - Imperio Ptolemaico",
+                "<div>El imperio de Cleopatra cayó ante el poder de Roma en el año 30 CE, marcando el fin del periodo Helenístico.</div><div><br/></div><div><img src=\"hellenistic_mapp.jpeg\"/><br/></div>"
+            ],
+            "flags": 0,
+            "guid": "O<t0TU4j3E",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::HellenisticPeriod"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿En qué siglo está situada la leyenda de Rómulo y Remo?",
+                "Siglo VIII BCE",
+                "<div>Esta leyenda está asociada a la fundación de Roma</div><div><br></div><img src=\"0_Lupa_Capitolina_(2).jpg\"><br><div><div></div><sub>Luperca amamantando a los gemelos Rómulo y Remo, según la leyenda más difundida acerca de la fundación de Roma.</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "N|~LUy?g{W",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientRoma"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿A qué se asocia la leyenda de Rómulo y Remo?",
+                "<div>Esta leyenda está asociada a la fundación de Roma</div>",
+                "<div>Se sitúa en el siglo VIII BCE</div><div><br></div><img src=\"0_Lupa_Capitolina_(2).jpg\"><br><div><div></div><sub>Luperca amamantando a los gemelos Rómulo y Remo, según la leyenda más difundida acerca de la fundación de Roma.</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "y*>K>Zlo2y",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientRoma"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Qué civilización es la predecesora de la Antigua Monarquía de Roma?",
+                "<div>La civilización etrusca</div>",
+                "<div>Duración ~900 - 27 BCE. Sus últimas ciudades terminaron siendo absorbidas por el imperio romano</div><div><br></div><div><img src=\"paste-06dfac530feb35162277d51d979774d7dd177167.jpg\"><br></div><div><sub>Mapa que muestra la extensión de la civilización etrusca ~750-500 BCE</sub><br></div>\n"
+            ],
+            "flags": 0,
+            "guid": "Gyzp*0Fgpv",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientRoma"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿A fines de&nbsp;qué siglo comienza la República Romana?",
+                "A fines del siglo VI BCE (509 BCE)",
+                ""
+            ],
+            "flags": 0,
+            "guid": "b*o7+7ej#|",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientRoma"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Qué imperio sucede al Imperio Romano?",
+                "El Imperio Bizantino",
+                ""
+            ],
+            "flags": 0,
+            "guid": "3<>RBUb6Y",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientRoma"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿A qué imperio de origen fenicio se enfrenta la República Romana?",
+                "Al Imperio púnico o cartaginés",
+                "<div>Con ellos se tienen las famosas Guerras Púnicas</div><div><br></div><img src=\"paste-1dd136a19670737006983854075842edd619232c.jpg\"><br><div><sub>Carthage and its dependencies in 264&nbsp;BC</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "A*NR_:zz-,",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientRoma"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿De donde proviene el imperio cartaginés?",
+                "De la civilización fenicia",
+                "<div>Cartago fue una colonia de los fenicios.</div><div>Duración de civilización fenicia ~2500 - 539 BCE. Acaba con la conquista aqueménida.</div><div><br></div><img src=\"paste-521e040222cfc28c91177b094200d1438c920c4c.jpg\"><br><div><sub>Territorio fenicio</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "KzC#:SA|M[",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientRoma"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿En qué año comienza el Imperio Romano?",
+                "Año 27 BCE",
+                "<div><br></div>"
+            ],
+            "flags": 0,
+            "guid": "HX]b3s^S}#",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientRoma"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "Estaban a cargo de la gobernación en la República Romana",
+                "Los cónsules romanos",
+                "<div>Eran 2, se elegían democráticamente y la duración del cargo era anual.</div><div><br></div><div><img src=\"roman_consuls_from_lantica_roma_1825_colour_mousepad-rd54bd41779bf43bba6415c44fb3934b4_x74vi_8byvr_512.jpg\"><br></div><div><div><sub>Roman Consuls, from \"L'Antica Roma,\" 1825</sub></div></div>"
+            ],
+            "flags": 0,
+            "guid": "E!vupm4|Rb",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientRoma"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Qué fue lo que le permitió a la República Romana tan vasta extensión?",
+                "Un gran poder militar",
+                "<div>La fuerza de trabajo romana consistía en esclavos de los pueblos conquistados</div><div><br></div><div><img src=\"paste-b0ec86e6d553a157d0ba261e00eba6c2f5b6540a.jpg\"><br></div><div><sub>Map showing Roman expansion up to around 100 BCE; by this time, Rome controlled much of the western Mediterranean.</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "q({#]6&7U!",
+            "note_model_uuid": "334de1fc-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientRoma"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "¿Quiénes eran los Hóplitas?",
+                "<b></b>Eran los ciudadano-soldado de las polis griegas",
+                "<div></div><img src=\"Hoplites.jpg\"><div><sub>Recreación de una formación hoplita</sub><br></div>"
+            ],
+            "flags": 0,
+            "guid": "Pg|@v1ZiV1",
+            "note_model_uuid": "334de208-a2d4-11ea-b67f-88d7f6e0e3ef",
+            "tags": [
+                "WH::AncientGreece"
+            ]
+        }
+    ]
+}
